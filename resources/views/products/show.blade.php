@@ -50,10 +50,10 @@
                             {{ $product->description }}
                         </div>
                     </div>
-        
+        mantap
             </div>
         </div>
-    </div>    
+    </div>
 </div>
-    
+
 @endsection
